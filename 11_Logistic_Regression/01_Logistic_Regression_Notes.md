@@ -1,6 +1,4 @@
-# Logistic Regression — Complete Notes
-
-> A single, self-contained reference: theory, math, full working code, evaluation, tuning, imbalanced data, multiclass, pitfalls, and interview prep. Written for someone learning ML for the first time — only basic math (fractions, simple algebra) is assumed.
+# Logistic Regression 
 
 ## Table of Contents
 
