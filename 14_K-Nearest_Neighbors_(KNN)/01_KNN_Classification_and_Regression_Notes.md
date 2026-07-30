@@ -1,8 +1,6 @@
 # K-Nearest Neighbors (KNN) — Complete Notes
 
-*From Basics to Advanced — Beginner Friendly, With Real-Life Examples*
 
----
 
 ## 1. The Simplest Idea in Machine Learning
 
